@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oloxx
-- 👀 I’m interested in learn to programme Python, JavaScript, HTML & CSS :D
-- 🌱 I’m currently learning DAW 
+- 👀 I’m interested in learn to programme Java, JavaScript, HTML & CSS :D
+- 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on idk ¯\ _(ツ )_ /¯
 - 📫 How to reach me¿? send me an email ;) alexrodart03@gmail.com
 
