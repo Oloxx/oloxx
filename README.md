@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>🔭 I’m currently working on TechDocsStudio</p>
+<p align="left">✨ Creating bugs since 2021<br>🔭 I’m currently working on TechDocsStudio</p>
 
 ###
 
